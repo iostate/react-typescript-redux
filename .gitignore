@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ESLint
+.eslintcache
+
+#DS_STORE
+.DS_STORE
